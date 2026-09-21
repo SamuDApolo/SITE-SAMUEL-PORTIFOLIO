@@ -529,9 +529,8 @@ footer {
     padding: 28px 24px;
     display: flex;
     justify-content: center;
-    text-align: center;j
-    
-    font-size: .8rem
+    text-align: center;
+
 }
 
 @media(max-width:850px) {
